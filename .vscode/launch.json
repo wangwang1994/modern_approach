@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/xuchangmao/Documents/编程学习/modern_approach_code/chap2",
+      "program": "/Users/xuchangmao/Documents/编程学习/modern_approach_code/chap2/build/Debug/outDebug"
+    }
+  ]
+}
